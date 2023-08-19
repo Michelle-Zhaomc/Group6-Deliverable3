@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.gofishgameplay;
 
 import java.util.Random;
@@ -10,9 +6,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author zhang
+/*
+ * Modifier: Meichao Zhao  991719472  
+ *           Xiaoyi Zhang  991711956  
  */
 public class Hand {
     List<GofishCard> handCards;

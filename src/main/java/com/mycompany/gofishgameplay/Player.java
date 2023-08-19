@@ -1,9 +1,9 @@
 package com.mycompany.gofishgameplay;
 import java.util.ArrayList;
 
-/**
- * @author dancye
- * @author Paul Bonenfant Jan 2020
+/*
+ * Modifier: Meichao Zhao  991719472  
+ *           Xiaoyi Zhang  991711956  
  */
 public abstract class Player {
 

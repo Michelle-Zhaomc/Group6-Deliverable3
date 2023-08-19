@@ -1,11 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.gofishgameplay;
-/**
- *
- * @author zhang
+/*
+ * Modifier: Meichao Zhao  991719472  
+ *           Xiaoyi Zhang  991711956  
  */
 public enum Suit {
     CLUBS("clubs"),DIAMONDS("diamonds"),HEARTS("hearts"),SPADES("spades");
