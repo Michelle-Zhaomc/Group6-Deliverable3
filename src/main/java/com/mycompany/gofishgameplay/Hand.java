@@ -1,15 +1,13 @@
 package com.mycompany.gofishgameplay;
-
+/*
+ * Modifier: Meichao Zhao  991719472  
+ *           Xiaoyi Zhang  991711956  
+ */
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-/*
- * Modifier: Meichao Zhao  991719472  
- *           Xiaoyi Zhang  991711956  
- */
 public class Hand {
     List<GofishCard> handCards;
     GofishDeck gofishDeck;
